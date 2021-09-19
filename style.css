@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Open sans', sans-serif;
+}
+
+b {
+    color: #616161;
+    font-weight: bolder;
+}
+
+#bg-img {
+    width: 280px;
+    margin: 10px;
+    height: 300px;
+}
+
+#blue {
+    color: #1A73E8;
+}
+
+a {
+    font-size: 0.9em;
+    color: #1A73E8;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
